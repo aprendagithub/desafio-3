@@ -31,7 +31,7 @@ jobs:
 
           chmod +x .github/CONFIG/validar.sh
 
-          if .github/CONFIG/validar.sh "ubuntu-latest" .github/workflows/meu-workflow.yml
+          if .github/CONFIG/validar.sh "actions/checkout" .github/workflows/meu-workflow.yml
           then
             echo "::set-output name=validar::0"
           else
@@ -101,5 +101,5 @@ jobs:
           body: |
             participant:${{ steps.issueinfo.outputs.nome }}
             id:${{ steps.issueinfo.outputs.identificado }}
-            event:desafio_padroes_commit            
+            event:desafio_introducao_github_actions            
             email:${{ steps.issueinfo.outputs.email }}
