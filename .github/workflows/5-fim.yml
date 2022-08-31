@@ -62,7 +62,7 @@ jobs:
 
             Bons Estudos!!!
 
-            ![hula_loop_octodex](https://octodex.github.com/jetpacktocat/)
+            ![hula_loop_octodex](https://octodex.github.com/images/jetpacktocat.png)
 
       - name: Update Step
         if: ${{ steps.validacao.outputs.currentstep == '5' }}      
