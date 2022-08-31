@@ -1,6 +1,6 @@
 # Desafio 3 - Introdução ao GitHub Actions
 
-Boas vindas ao desafio de GitHub. Este é o segundo de uma série de desafios onde você poderá aprender mais sobre como utilizar algumas das principais funcionalidades do **GitHub**.
+Boas vindas ao desafio de GitHub. Este é o terceiro de uma série de desafios onde você poderá aprender mais sobre como utilizar algumas das principais funcionalidades do **GitHub**.
 
 ##### Se você ainda não está participando do desafio, mas gostaria de fazer parte desse desafio, é muito simples, [Veja como aqui](https://github.com/aprendagithub/Participe)
 
